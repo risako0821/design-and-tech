@@ -39,7 +39,7 @@ const HomePageTemplate = ({
             <div className='column is-10 is-offset-1'>
               <div className='content'>
                 <div>
-                  <h3 className='has-text-weight-semibold is-size-2'>
+                  <h3 className='has-text-weight-semibold is-size-5'>
                     {heading}
                   </h3>
                   <p>{description}</p>
