@@ -1,10 +1,10 @@
 module.exports = {
-  siteTitle: 'Design & Technology LLC.', // Site title.
-  siteTitleAlt: 'デザイン＆テクノロジー', // Alternative site title for SEO.
+  siteTitle: 'デザイン＆テクノロジー合同会社', // Site title.
+  siteTitleAlt: 'Design & Technology LLC.', // Alternative site title for SEO.
   siteLogo: '/icons/D&T.png', // Logo used for SEO and manifest.
   siteUrl: 'https://www.design-and-tech.com', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
-  siteDescription: 'Leverage Gatsby Business Starter for your Business.', // Website description used for RSS feeds/meta description tag.
+  siteDescription: 'デザイン＆テクノロジー合同会社のホームページです', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml',
   siteFBAppID: '', // FB Application ID for using app insights
   googleTagManagerID: 'GTM-M6RG52S', // GTM tracking ID.
