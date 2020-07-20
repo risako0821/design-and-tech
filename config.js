@@ -7,7 +7,7 @@ module.exports = {
   siteDescription: 'Leverage Gatsby Business Starter for your Business.', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml',
   siteFBAppID: '', // FB Application ID for using app insights
-  googleTagManagerID: '', // GTM tracking ID.
+  googleTagManagerID: 'GTM-M6RG52S', // GTM tracking ID.
   disqusShortname: 'design-and-technology', // Disqus shortname.
   userName: 'Ore Ore',
   userTwitter: '',
