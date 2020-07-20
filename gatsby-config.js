@@ -11,7 +11,7 @@ module.exports = {
       feed_url: config.siteUrl + pathPrefix + config.siteRss,
       title: config.siteTitle,
       description: config.siteDescription,
-      image_url: `${config.siteUrl + pathPrefix}/icons/icon-512x512.png`,
+      image_url: `${config.siteUrl + pathPrefix}/icons/D&T.png`,
       author: config.userName,
       copyright: config.copyright,
     },
@@ -108,6 +108,11 @@ module.exports = {
         theme_color: config.themeColor,
         display: 'standalone',
         icons: [
+          {
+            src: `/icons/D&T.png`,
+            sizes: `64x64`,
+            type: `image/png`,
+          },
           {
             src: `/icons/icon-192x192.png`,
             sizes: `192x192`,
