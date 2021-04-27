@@ -12,7 +12,10 @@
     "lint:fix": "eslint --ext js,jsx --ignore-path .gitignore . --fix",
     "clean": "rm -rf public/ .cache/"
   },
-  "repository": "https://github.com/v4iv/gatsby-starter-business",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v4iv/gatsby-starter-business.git"
+  },
   "author": "Vaibhav Sharma <vaibhavsharmaatwork@gmail.com>",
   "license": "MIT",
   "private": false,
@@ -73,5 +76,9 @@
     "eslint-plugin-standard": "^4.0.1",
     "remark-cli": "^7.0.0",
     "remark-preset-lint-recommended": "^3.0.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/v4iv/gatsby-starter-business/issues"
+  },
+  "homepage": "https://github.com/v4iv/gatsby-starter-business#readme"
 }
