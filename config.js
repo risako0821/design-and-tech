@@ -11,7 +11,7 @@ module.exports = {
   disqusShortname: 'design-and-technology', // Disqus shortname.
   userName: 'Ore Ore',
   userTwitter: '',
-  userLocation: '東京都大田区大森西6-17-17 KOCA A3',
+  userLocation: '東京都大田区大森東2-29-5 TAIRU',
   userDescription: 'デザイン＆テクノロジー',
   copyright: 'Copyright © Design & Technology LLC. 2021. All Rights Reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#ff9900', // Used for setting manifest and progress theme colors.
